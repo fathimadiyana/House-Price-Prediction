@@ -23,3 +23,30 @@ Python, Pandas, Scikit-learn, Matplotlib, Streamlit, Google Colab, VS Code, GitH
 
 This task helped me understand the basic workflow of a machine learning regression project and how to present it using a dashboard.
 
+
+Use this for your repository:
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/fathimadiyana/House-Price-Prediction.git
+cd House-Price-Prediction
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Launch the dashboard:
+
+python -m streamlit run app.py
+
+Open the app in your browser at:
+
+http://localhost:8501
+
+If your repo has no `model.py`, don’t include:
+
+```bash
+python model.py
