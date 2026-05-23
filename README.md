@@ -1,19 +1,25 @@
-This directory includes a few sample datasets to get you started.
+🚀 Machine Learning Internship – Task 1 Completed
 
-*   `california_housing_data*.csv` is California housing data from the 1990 US
-    Census; more information is available at:
-    https://docs.google.com/document/d/e/2PACX-1vRhYtsvc5eOR2FWNCwaBiKL6suIOrxJig8LcSBbmCbyYsayia_DvPOOBlXZ4CAlQ5nlDD8kTaIDRwrN/pub
+I’m happy to share that I have completed Task 1 of my Machine Learning Internship at SkillCraft Technologies.
 
-*   `mnist_*.csv` is a small sample of the
-    [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), which is
-    described at: http://yann.lecun.com/exdb/mnist/
+Task: House Price Prediction using Linear Regression
 
-*   `anscombe.json` contains a copy of
-    [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet); it
-    was originally described in
+In this project, I implemented a Linear Regression model to predict house prices based on:
+• Square footage
+• Number of bedrooms
+• Number of bathrooms
 
-    Anscombe, F. J. (1973). 'Graphs in Statistical Analysis'. American
-    Statistician. 27 (1): 17-21. JSTOR 2682899.
+Project workflow:
+✅ Dataset loading
+✅ Feature selection
+✅ Model training
+✅ Prediction
+✅ Model evaluation using MSE and R² Score
+✅ Actual vs Predicted price comparison
+✅ Streamlit dashboard creation
 
-    and our copy was prepared by the
-    [vega_datasets library](https://github.com/altair-viz/vega_datasets/blob/4f67bdaad10f45e3549984e17e1b3088c731503d/vega_datasets/_data/anscombe.json).
+Tools used:
+Python, Pandas, Scikit-learn, Matplotlib, Streamlit, Google Colab, VS Code, GitHub
+
+This task helped me understand the basic workflow of a machine learning regression project and how to present it using a dashboard.
+
